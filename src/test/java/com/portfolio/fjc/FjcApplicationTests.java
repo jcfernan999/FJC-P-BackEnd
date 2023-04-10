@@ -1,4 +1,4 @@
-package com.porfolio.fjc;
+package com.portfolio.fjc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
