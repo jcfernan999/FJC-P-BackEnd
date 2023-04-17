@@ -23,7 +23,7 @@ public class SEducacion {
         return rEducacion.findById(id);
     }
     
-    public Optional<Educacion> getByNmbre(String nombre){
+    public Optional<Educacion> getByNombre(String nombre){
         return rEducacion.findByNombre(nombre);
     }
     
